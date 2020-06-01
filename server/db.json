@@ -1,0 +1,37 @@
+{
+  "streams": [
+    {
+      "title": "soul land",
+      "description": "wrwerw",
+      "id": 3
+    },
+    {
+      "title": "LordCliff's Stream",
+      "description": "LordCliff created this stream",
+      "id": 4
+    },
+    {
+      "title": "Progammatic Navigation",
+      "description": "this is to automatically navigate the user to anywhere in our web app",
+      "id": 6
+    },
+    {
+      "title": "PATCH vs PUT request",
+      "description": "The  patch update some properties in a record while the put update all the properties in  a record(Ediiit)",
+      "userId": "113714422418876723743",
+      "id": 7
+    },
+    {
+      "title": "u bard",
+      "description": "the shoddy is angryyyy ooo",
+      "userId": "113714422418876723743",
+      "id": 9
+    },
+    {
+      "title": "this and that",
+      "description": "We go make am ",
+      "userId": "113714422418876723743",
+      "id": 11
+    }
+  ]
+}
